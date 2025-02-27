@@ -12,4 +12,5 @@ provider "proxmox" {
   insecure = true
   username = "terraform-prov@pve"
   password = "totototo"
+
 }
